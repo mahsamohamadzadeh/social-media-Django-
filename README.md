@@ -1,1 +1,1 @@
-# social-media-Django-
+# Social media Django
